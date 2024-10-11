@@ -3,7 +3,7 @@ package diddly.modid;
 
 import net.fabricmc.api.ClientModInitializer;
 
-public class TutorialModClient implements ClientModInitializer {
+public class DiddlyModClient implements ClientModInitializer {
    @Override
 
    public void onInitializeClient() {
