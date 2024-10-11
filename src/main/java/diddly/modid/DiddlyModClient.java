@@ -7,6 +7,6 @@ public class DiddlyModClient implements ClientModInitializer {
    @Override
 
    public void onInitializeClient() {
-
+      
    }
 }
